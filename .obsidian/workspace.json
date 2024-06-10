@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1b6eca4ef8ac0a",
+        "id": "a4dc82196734d513",
         "type": "split",
         "children": [
           {
-            "id": "fd04bf004feab88b",
+            "id": "18200f3020d99e4b",
             "type": "split",
+            "dimension": 55.54789800137836,
             "children": [
               {
-                "id": "ba4c79850ec35277",
+                "id": "5b4e97b80acf3ebd",
                 "type": "tabs",
+                "dimension": 20,
                 "children": [
                   {
-                    "id": "1a004435f5a735ba",
+                    "id": "22b076ffd9d89f91",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "personas/Adventurous Andy.md",
+                        "file": "hypotheses/Problem.md",
                         "mode": "source",
                         "source": false
                       }
@@ -30,16 +32,124 @@
                 ]
               },
               {
-                "id": "8075cadaca40d2a3",
-                "type": "tabs",
+                "id": "1e964800780aae67",
+                "type": "split",
+                "dimension": 20,
                 "children": [
                   {
-                    "id": "da7a54221d47fc98",
+                    "id": "d96413a45e9a8de3",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "455133cea13551df",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "hypotheses/Solution.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "99c32a7e048b60b1",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "0a69a555ab5525ab",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "hypotheses/Key Metrics.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              },
+              {
+                "id": "2e1674e75e80481b",
+                "type": "tabs",
+                "dimension": 20,
+                "children": [
+                  {
+                    "id": "10c7cb4553ec2aa9",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "personas/Adventurous Eater Andy 1.md",
+                        "file": "hypotheses/Value Proposition.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "cdb49971fb4f4c93",
+                "type": "split",
+                "dimension": 20,
+                "children": [
+                  {
+                    "id": "72507f22b7afdeee",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "a0790a23cc012272",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "hypotheses/Unfair Advantage.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "f61ea331ddaceedb",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "03225abd5829a33b",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "hypotheses/Channels.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              },
+              {
+                "id": "447365b1e3766163",
+                "type": "tabs",
+                "dimension": 20,
+                "children": [
+                  {
+                    "id": "1085d5b9e1c85aaa",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "hypotheses/Customer Segments.md",
                         "mode": "source",
                         "source": false
                       }
@@ -51,70 +161,21 @@
             "direction": "vertical"
           },
           {
-            "id": "b05201027bcec404",
+            "id": "174f78862c689728",
             "type": "split",
+            "dimension": 44.45210199862164,
             "children": [
               {
-                "id": "7b311a46d972a992",
+                "id": "662c53c83e2b35a6",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "0b790686a04dfa11",
+                    "id": "324cf268ca100656",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "personas/Ecological Emily.md",
-                        "mode": "preview",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "96cf8a006130815b",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ee2ac3da549965e5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "personas/Adam.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "b39d6a057b6313a4",
-        "type": "split",
-        "children": [
-          {
-            "id": "bbceb41a2b32a9a0",
-            "type": "split",
-            "children": [
-              {
-                "id": "153ab84ea1215438",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "5982f4da13f16d6e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "personas/Beefy Brad.md",
+                        "file": "hypotheses/Cost Structure.md",
                         "mode": "source",
                         "source": false
                       }
@@ -123,59 +184,16 @@
                 ]
               },
               {
-                "id": "1f2207c915c12710",
+                "id": "707f36673c2c3c2f",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "31352ced5396b882",
+                    "id": "da9bdb2da43579fc",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "personas/Beefy Brad 1.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "2ba25c29e525e6d9",
-            "type": "split",
-            "children": [
-              {
-                "id": "a05feaee93ccdb56",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "3fecb5e82c271657",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "personas/Healthy Helen.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "13a9504fd2d275ce",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "966f08751679436b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "personas/Healthy Helen 1.md",
+                        "file": "hypotheses/Revenue Streams.md",
                         "mode": "source",
                         "source": false
                       }
@@ -224,14 +242,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "c4c138b9fba32125",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -254,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personas/Adam.md",
+                "file": "hypotheses/Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personas/Adam.md",
+                "file": "hypotheses/Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,23 +315,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee2ac3da549965e5",
+  "active": "22b076ffd9d89f91",
   "lastOpenFiles": [
+    "hypotheses/Customer Segments.md",
+    "hypotheses/Revenue Streams.md",
+    "hypotheses/Solution.md",
+    "hypotheses/Problem.md",
+    "hypotheses/Value Proposition.md",
+    "hypotheses/Channels.md",
+    "personas/Adam.md",
     "personas/Healthy Helen.md",
     "personas/Ecological Emily.md",
     "personas/Adventurous Andy.md",
-    "personas/Adam.md",
     "personas/Healthy Helen 1.md",
     "personas/Beefy Brad 1.md",
     "personas/Adventurous Eater Andy 1.md",
     "personas/Beefy Brad.md",
     "hypotheses/Cost Structure.md",
-    "hypotheses/Customer Segments.md",
-    "hypotheses/Value Proposition.md",
-    "hypotheses/Solution.md",
     "readme.md",
     "personas/Template.md",
-    "personas/Sasha 3 1.md",
-    "hypotheses/Revenue Streams.md"
+    "personas/Sasha 3 1.md"
   ]
 }
